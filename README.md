@@ -15,7 +15,7 @@ This is the platform for booking movie tickets. mainly only two programming lang
 
 For the payment process, [Stripe PHP Library](https://github.com/stripe/stripe-php) is used. for accessing `Stripe API`
 
-1. go to the Stripe PHP Library Github page.
+1. go to the [Stripe PHP Library Github](https://github.com/stripe/stripe-php) page.
 1. download the zip file.
 1. extract into the project file. rename the folder to stripe e.g.(movie-ticket-booking-portal-in-PHP/stripe).
 1. copy `require_once('stripe/init.php');` this line paste it into `book_ticket.inc.php` page.
