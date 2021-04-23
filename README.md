@@ -21,6 +21,6 @@ For the payment process, [Stripe PHP Library](https://github.com/stripe/stripe-p
 1. copy `require_once('stripe/init.php');` this line paste it into `book_ticket.inc.php` page.
 you can able to do payments using credit and debit cards.
 
-##Requirements
+## Requirements
 - `PHP` version above `7.0`.
 - `Mysql` database.
